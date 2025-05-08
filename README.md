@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Asesh Nemal</h1>
-<h3 align="center">A passionate frontend developer from Sri Lanka</h3>
+<h3 align="center">A passionate IT student from Sri Lanka. Currently studying as undergraduate in Sri Lanka Institute of Information Technology (SLIIT)</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aseshnemal&label=Profile%20views&color=0e75b6&style=flat" alt="aseshnemal" /> </p>
 

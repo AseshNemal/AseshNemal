@@ -1,3 +1,4 @@
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 <h1 align="center">Hi 👋, I'm Asesh Nemal</h1>
 <h3 align="center">A passionate IT student from Sri Lanka. Currently studying as undergraduate in Sri Lanka Institute of Information Technology (SLIIT)</h3>
 
@@ -36,4 +37,5 @@
 <br/>
 
 ![footer](https://github.com/JayantGoel001/JayantGoel001/blob/master/WEBP/footer.webp)
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 

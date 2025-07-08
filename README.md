@@ -10,7 +10,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/asesh-nemal-a0a520248" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="asesh-nemal-a0a520248" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/asesh-nemal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="asesh-nemal-a0a520248" height="30" width="40" /></a>
 <a href="https://fb.com/aseshnemal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="aseshnemal" height="30" width="40" /></a>
 <a href="https://instagram.com/__asesh_nemal__" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="__asesh_nemal__" height="30" width="40" /></a>
 <a href="https://www.youtube.com/@aseshnemal7817" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@aseshnemal7817" height="30" width="40" /></a>

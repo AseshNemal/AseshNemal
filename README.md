@@ -16,7 +16,16 @@
 <a href="https://www.youtube.com/@aseshnemal7817" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@aseshnemal7817" height="30" width="40" /></a>
 <a href="https://discord.gg/Asesh Nemal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Asesh Nemal" height="30" width="40" /></a>
 <a href="https://g.dev/AseshNemal" target="blank">
-  <img align="center" src="https://avatars.githubusercontent.com/u/5009934?s=200&v=4" alt="Google Developers" height="30" width="30" />
+  <img align="center" src="https://avatars.githubusercontent.com/u/5009934?s=200&v=4" alt="Google Developers" height="30" width="40" />
+<a href="https://medium.com/@aseshnemal" target="_blank">
+  <img src="https://humblepiehomekitchen.com/wp-content/uploads/2020/07/1200px-Medium_logo_Monogram.svg.png" alt="Medium" height="30" width="40" />
+</a>
+
+
+
+
+
+
 </a>
 </p>
 

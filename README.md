@@ -2,11 +2,50 @@
 <h1 align="center">Hi 👋, I'm Asesh Nemal</h1>
 <h3 align="center">A passionate IT student from Sri Lanka. Currently studying as undergraduate in Sri Lanka Institute of Information Technology (SLIIT)</h3>
 
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aseshnemal&label=Profile%20views&color=0e75b6&style=flat" alt="aseshnemal" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aseshnemal" alt="aseshnemal" /></a> </p>
 
 - 📫 How to reach me **aseshnemal@gmail.com**
+
+
+---
+
+🔭 I’m currently working on:
+- 🐶 **AI-powered Pet Care & Treatment System** (MERN + IoT + Gemini AI)
+- 🧠 **NeuroNest** – EEG-based Relaxation Game (Python + Arduino)
+- 🎨 **BackdropX** – Offline/Online AI Background Remover (Flutter + U²-Net)
+
+🌱 I’m currently learning:
+- Advanced AI integration (Gemini, OpenAI)
+- IoT cloud pipelines with Azure & embedded comms (SIM800L)
+- Cross-platform UI with Flutter and SwiftUI
+
+💬 Ask me about:
+- Kotlin Android Development (Room, SharedPreferences, MPAndroidChart)
+- MERN stack + Firebase hosting
+- AI + real-world sensors integration
+- Personal projects and open innovation!
+
+📫 How to reach me:
+- Email: `aseshnemal@gmail.com`
+- LinkedIn: [linkedin.com/in/aseshnemal](https://linkedin.com/in/aseshnemal)
+- GitHub: [github.com/aseshnemal](https://github.com/aseshnemal)
+
+---
+
+### 🛠 Tech Stack
+
+```plaintext
+💻 Languages: JavaScript | Python | Java | Kotlin | Swift (basic)
+🌐 Web: React | Node.js | Express | MongoDB | Firebase
+📱 Mobile: Kotlin (Android) | Flutter | SwiftUI
+🧠 AI: Gemini API | OpenAI GPT | U²-Net | MediaPipe
+📡 IoT: Arduino | Micro:bit | DHT22 | SIM800L | Pulse Sensor
+☁️ Cloud: Azure | Firebase | Vercel | Render
+📊 Tools: Git | Android Studio | Figma | GitHub Copilot | VS Code
+```
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

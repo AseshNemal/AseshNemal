@@ -60,13 +60,30 @@ A modular AI assistant designed to **connect apps, automate tasks, and act as a 
 ### 🛠 Tech Stack
 
 ```plaintext
-💻 Languages: Python | JavaScript | Java | Kotlin | Swift (basic)
-🧠 Neuro & AI: EEG Signal Processing | Gemini API | OpenAI GPT | MediaPipe | U²-Net
-📡 IoT & Hardware: Arduino | EEG Sensors | SIM800L | DHT22 | Pulse Sensor | Micro:bit | ESP32 | BBC Micro:bit 
-🌐 Web & Backend: Flask | React | Node.js | Express | MongoDB | Firebase | Next.js
-📱 Mobile & UI: Kotlin (Android) | Flutter | SwiftUI
-☁️ Cloud, VPS & DevOps: Microsoft Azure | VPS (Linux Servers) | Nginx | PM2 | Firebase | Vercel | Render
-🛠 Tools & Workflow: Git | GitHub | VS Code | Android Studio | Figma | GitHub Copilot
+💻 Languages:
+Python | JavaScript | Java | Kotlin | Swift (basic)
+
+🧠 Neuro & AI:
+EEG Signal Processing | Gemini API | OpenAI GPT | MediaPipe | U²-Net
+
+📡 IoT & Embedded Systems:
+ESP32 | Arduino | BBC Micro:bit
+EEG Sensors | SIM800L | DHT22 | Pulse Sensor
+
+🌐 Web & Backend:
+Flask | React | Next.js
+Node.js | Express | MongoDB | Firebase
+
+📱 Mobile & UI:
+Kotlin (Android) | Flutter | SwiftUI
+
+☁️ Cloud, VPS & DevOps:
+Microsoft Azure | VPS (Linux Servers)
+Nginx | PM2 | Firebase | Vercel | Render
+
+🛠 Tools & Workflow:
+Git | GitHub | VS Code | Android Studio | Xcode
+Figma | GitHub Copilot
 ```
 
 <h3 align="left">Connect with me:</h3>

@@ -11,11 +11,29 @@
 
 
 ---
+## 🔭 Currently Working On
 
-🔭 I’m currently working on:
-- 🐶 **AI-powered Pet Care & Treatment System** (MERN + IoT + Gemini AI)
-- 🧠 **NeuroNest** – EEG-based Relaxation Game (Python + Arduino)
-- 🎨 **BackdropX** – Offline/Online AI Background Remover (Flutter + U²-Net)
+### 🧠 NeuroNest — EEG-Based Neurofeedback & Relaxation System
+A neuro-interactive system that converts real-time **EEG signals** into calmness-driven gameplay and visual feedback.
+
+- Blink + calm-state detection
+- Arduino-based EEG signal acquisition
+- Python (Pygame) real-time visualization
+- Designed for mental wellness & HCI research
+
+**Tech:** Python, Arduino, EEG Sensors, Signal Processing
+
+---
+
+### ⚡ Nexa — AI-Powered Smart Assistant Platform
+A modular AI assistant designed to **connect apps, automate tasks, and act as a personal digital brain** across devices.
+
+- Natural language task execution
+- AI-powered decision & workflow automation
+- Scalable agent-based architecture
+- Built to evolve into a cross-platform personal assistant
+
+**Tech:** AI APIs, Backend Services, Automation Logic, Cross-Platform Design
 
 🌱 I’m currently learning:
 - Advanced AI integration (Gemini, OpenAI)

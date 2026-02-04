@@ -35,16 +35,20 @@ A modular AI assistant designed to **connect apps, automate tasks, and act as a 
 
 **Tech:** AI APIs, Backend Services, Automation Logic, Cross-Platform Design
 
-🌱 I’m currently learning:
-- Advanced AI integration (Gemini, OpenAI)
-- IoT cloud pipelines with Azure & embedded comms (SIM800L)
-- Cross-platform UI with Flutter and SwiftUI
+---
 
-💬 Ask me about:
-- Kotlin Android Development (Room, SharedPreferences, MPAndroidChart)
-- MERN stack + Firebase hosting
-- AI + real-world sensors integration
-- Personal projects and open innovation!
+## 🌱 I’m currently learning
+- Neurotech & signal processing (EEG data, noise filtering, real-time interpretation)
+- Advanced AI integration (Gemini, OpenAI, agent-based systems)
+- IoT → Cloud pipelines (Arduino, SIM800L, Azure ingestion)
+- Cross-platform UI development (Flutter, SwiftUI)
+
+## 💬 Ask me about
+- EEG-based systems & neurofeedback loops
+- AI + real-world sensor integration (hardware → software → UX)
+- Kotlin Android development (Room, SharedPreferences, MPAndroidChart)
+- MERN stack & Firebase deployments
+- Building serious student projects beyond tutorials
 
 📫 How to reach me:
 - Email: `aseshnemal@gmail.com`
@@ -56,13 +60,13 @@ A modular AI assistant designed to **connect apps, automate tasks, and act as a 
 ### 🛠 Tech Stack
 
 ```plaintext
-💻 Languages: JavaScript | Python | Java | Kotlin | Swift (basic)
-🌐 Web: React | Node.js | Express | MongoDB | Firebase
-📱 Mobile: Kotlin (Android) | Flutter | SwiftUI
-🧠 AI: Gemini API | OpenAI GPT | U²-Net | MediaPipe
-📡 IoT: Arduino | Micro:bit | DHT22 | SIM800L | Pulse Sensor
-☁️ Cloud: Azure | Firebase | Vercel | Render
-📊 Tools: Git | Android Studio | Figma | GitHub Copilot | VS Code
+💻 Languages: Python | JavaScript | Java | Kotlin | Swift (basic)
+🧠 Neuro & AI: EEG Signal Processing | Gemini API | OpenAI GPT | MediaPipe | U²-Net
+📡 IoT & Hardware: Arduino | EEG Sensors | SIM800L | DHT22 | Pulse Sensor | Micro:bit | ESP32 | BBC Micro:bit 
+🌐 Web & Backend: Flask | React | Node.js | Express | MongoDB | Firebase | Next.js
+📱 Mobile & UI: Kotlin (Android) | Flutter | SwiftUI
+☁️ Cloud, VPS & DevOps: Microsoft Azure | VPS (Linux Servers) | Nginx | PM2 | Firebase | Vercel | Render
+🛠 Tools & Workflow: Git | GitHub | VS Code | Android Studio | Figma | GitHub Copilot
 ```
 
 <h3 align="left">Connect with me:</h3>

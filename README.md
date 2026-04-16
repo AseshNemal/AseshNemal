@@ -88,16 +88,29 @@ Figma | GitHub Copilot
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/aseshnemal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="asesh-nemal-a0a520248" height="30" width="40" /></a>
-<a href="https://fb.com/aseshnemal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="aseshnemal" height="30" width="40" /></a>
-<a href="https://instagram.com/__asesh_nemal__" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="__asesh_nemal__" height="30" width="40" /></a>
-<a href="https://www.youtube.com/@aseshnemal7817" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@aseshnemal7817" height="30" width="40" /></a>
-<a href="https://discord.gg/Asesh Nemal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Asesh Nemal" height="30" width="40" /></a>
-<a href="https://g.dev/AseshNemal" target="blank">
-  <img align="center" src="https://avatars.githubusercontent.com/u/5009934?s=200&v=4" alt="Google Developers" height="30" width="40" />
-<a href="https://medium.com/@aseshnemal" target="_blank">
-  <img src="https://humblepiehomekitchen.com/wp-content/uploads/2020/07/1200px-Medium_logo_Monogram.svg.png" alt="Medium" height="30" width="40" />
-</a>
+  <a href="https://www.linkedin.com/in/aseshnemal" target="_blank" rel="noreferrer">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
+  </a>
+  <a href="https://fb.com/aseshnemal" target="_blank" rel="noreferrer">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook" height="30" width="40" />
+  </a>
+  <a href="https://instagram.com/__asesh_nemal__" target="_blank" rel="noreferrer">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" />
+  </a>
+  <a href="https://www.youtube.com/@aseshnemal7817" target="_blank" rel="noreferrer">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="YouTube" height="30" width="40" />
+  </a>
+  <a href="https://discord.com/" target="_blank" rel="noreferrer">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Discord" height="30" width="40" />
+  </a>
+  <a href="https://g.dev/AseshNemal" target="_blank" rel="noreferrer">
+    <img align="center" src="https://avatars.githubusercontent.com/u/5009934?s=200&v=4" alt="Google Developers" height="30" width="40" />
+  </a>
+  <a href="https://medium.com/@aseshnemal" target="_blank" rel="noreferrer">
+    <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/e/ec/Medium_logo_Monogram.svg" alt="Medium" height="30" width="40" />
+  </a>
+</p>
+
 
 
 
